@@ -10,23 +10,35 @@
 
 ---
 
-### 🌐 Social Media
+### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanayakofficial)  
-[![Swecha](https://img.shields.io/badge/-Swecha-303030?style=flat-square&logo=gitlab&logoColor=white)](https://code.swecha.org/ShivaNayakkk)  
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MrShivaNayak?t=zb1I1mWhfy5LsFGoVO-DSw&s=09)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shiva_nayakkk?igsh=d3Nzb2dvNGJ2NmJy)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivanayakofficial" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>&nbsp;
+  <a href="https://code.swecha.org/ShivaNayakkk" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="Swecha / GitLab" width="30" />
+  </a>&nbsp;
+  <a href="https://x.com/MrShivaNayak" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="Twitter (X)" width="30" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/shiva_nayakkk" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
+  </a>
+</p>
 
 ---
 
 ### 🧰 Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali_Linux_logo.png" alt="Kali Linux" width="30" />&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888897.png" alt="Photoshop" width="30" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="30" />&nbsp;
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="30" />
+</p>
