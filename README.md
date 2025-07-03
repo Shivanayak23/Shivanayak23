@@ -19,13 +19,14 @@
   <a href="https://code.swecha.org/ShivaNayakkk" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="Swecha / GitLab" width="30" />
   </a>&nbsp;
-  <a href="https://x.com/MrShivaNayak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="X" width="30" />
+  <a href="https://twitter.com/MrShivaNayak" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
   </a>&nbsp;
   <a href="https://www.instagram.com/shiva_nayakkk" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
   </a>
 </p>
+
 
 ---
 
@@ -49,20 +50,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
   </a>&nbsp;
 
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Kali_Linux_2.0_wordmark.svg" width="30" alt="Kali Linux"/>
-  </a>&nbsp;
-
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://logowik.com/content/uploads/images/canva.jpg" width="30" alt="Canva"/>
-  </a>&nbsp;
-
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30" alt="Hugging Face"/>
-  </a>&nbsp;
-
-  <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://seeklogo.com/images/G/google-gemini-logo-620A8AD017-seeklogo.com.png" width="30" alt="Gemini"/>
   </a>&nbsp;
 
   <a href="https://code.visualstudio.com/" target="_blank">
