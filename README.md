@@ -20,7 +20,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="Swecha / GitLab" width="30" />
   </a>&nbsp;
   <a href="https://x.com/MrShivaNayak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="Twitter (X)" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="X" width="30" />
   </a>&nbsp;
   <a href="https://www.instagram.com/shiva_nayakkk" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
@@ -38,7 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali_Linux_logo.png" alt="Kali Linux" width="30" />&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888897.png" alt="Photoshop" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="30" />&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888897.png" alt="Photoshop" width="30" />&nbsp;
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="30" />
 </p>
