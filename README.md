@@ -1,6 +1,6 @@
 # Namaste 🌍, I'm SHIVA SAI NATH
 
-### One step towards an upskilled "**భారత్**"
+<p align="center"><b><i>One step towards an upskilled "భారత్"</i></b></p>
 
 - 🔭 Currently researching **emerging technologies** in Real World  
 - 🛠️ Working on **real-time problems**  
