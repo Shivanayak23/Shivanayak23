@@ -4,7 +4,7 @@
 - 🔭 Currently researching **emerging technologies** in Real World  
 - 🛠️ Working on **real-time problems**  
 - 🌱 Creating a **better and secure, work environment**  
-- 🤝 Connected with **IEEE VBIT-SB** | Vice-Chairperson – Computer Society  
+- 🤝 Connected with **IEEE - VBIT SB** | Vice-Chairperson – Computer Society  
 - 📩 Contact me: [shivanayak23official@gmail.com](mailto:shivanayak23official@gmail.com)
 
 ---
