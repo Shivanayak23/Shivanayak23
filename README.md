@@ -5,7 +5,7 @@
 - 🛠️ Working on **real-time problems**  
 - 🌱 Creating a **better and secure, work environment**  
 - 🤝 Connected with **IEEE - VBIT SB** | Vice-Chairperson – Computer Society  
-- 📩 Contact me: [shivanayak23official@gmail.com](mailto:shivanayak23official@gmail.com)
+- 📩 Contact me: [shivanayak23official@gmail.com](mailto:shivanayakofficial23@gmail.com)
 
 ---
 
